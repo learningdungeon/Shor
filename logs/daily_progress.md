@@ -6,7 +6,7 @@ DAY 1: # Research Log - Noor Ul Ain Faisal
 **Week Goal:** Establish research infrastructure and begin literature review
 
 ### 📊 Today's Progress
-**Time Invested:** [Your actual hours]
+**Time Invested:** 4 hours
 **Key Activities:**
 - [x] Set up research log infrastructure
 - [x] Email QDay organizers for parameters
