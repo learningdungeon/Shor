@@ -1,7 +1,31 @@
 # Research Journal - Noor Ul Ain Faisal
 ## QDay Prize: Breaking ECDLP with Shor's Algorithm
 
+
+### 🔬 Day 2 - October 13, 2025
+**Focus:** ECC Cryptography Deep Dive & Quantum Vulnerability Analysis
+**Time Planned:** 7 hours
+**Current Status:** 🟡 FOCUSED RESEARCH MODE
+
+#### 📊 Today's ECC Research Mission
+**Target Accomplishments:**
+- [ ] **ECC Fundamentals** - Master elliptic curve mathematics and discrete log problem
+- [ ] **Quantum Vulnerability** - Analyze exactly how Shor's algorithm breaks ECC
+- [ ] **Resource Estimation** - Map qubit requirements for different curve sizes
+- [ ] **Current Research** - Find latest papers on quantum ECC attacks
 ---
+#### Technical Research Plan
+
+**ECC Mathematical Foundation:**
+
+# Key Concepts to Master:
+1. Elliptic Curve Groups and Point Addition
+2. Discrete Logarithm Problem on EC
+3. Curve Parameters: p, a, b, G, n, h
+4. SECP256k1 vs NIST P-256 vs other standard curves
+5. Key sizes and security equivalents (ECC-256 ≈ RSA-3072)
+
+
 
 ## 📅 WEEK 1: October 12-18, 2025
 **Weekly Goal:** Establish Research Foundation & Document Quantum Landscape
@@ -14,10 +38,13 @@
 
 #### 📊 Progress Summary
 **Completed:** 
+- [ ] ECC Research Mission
 - [ ] Initial literature review on NISQ-era quantum computing
 - [ ] Quantum hardware capability assessment started
 - [ ] Research environment configured with Qiskit
 - [ ] First quantum circuit implementation 
+
+
 
 
 ### Day 1 - October 12
