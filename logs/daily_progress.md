@@ -1,3 +1,27 @@
+# Research Log - Noor Ul Ain Faisal
+## QDay Prize: ECDLP with Shor's Algorithm
+
+### 🎯 Current Focus
+**DAY 2-7: Date:** October 13-19, 2025
+**Week Goal:** Document Current Quantum Landscape & Begin Literature Review
+
+### 📊 Today's Progress
+**Time Invested:** [7] hours
+**Key Activities:**
+- [ ] Literature review on NISQ-era Shor implementations
+- [ ] Quantum hardware capability assessment
+- [ ] First simple quantum circuit implementation
+
+### 🔬 Technical Work
+
+#### Literature Review Findings
+
+# Key papers identified:
+# 1. Paper title - focus on recent NISQ implementations?
+# 2. Paper on error mitigation for factorization?
+# 3. Current record for largest number factored on real hardware?
+
+
 DAY 1: # Research Log - Noor Ul Ain Faisal
 ## QDay Prize: ECDLP with Shor's Algorithm
 
