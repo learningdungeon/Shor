@@ -1,70 +1,42 @@
-# Research Log - Noor Ul Ain Faisal
-## QDay Prize: ECDLP with Shor's Algorithm
+# Research Journal - Noor Ul Ain Faisal
+## QDay Prize: Breaking ECDLP with Shor's Algorithm
 
-### 🎯 Current Focus
-**DAY 2-7: Date:** October 13-19, 2025
-**Week Goal:** Document Current Quantum Landscape & Begin Literature Review
+---
 
-### 📊 Today's Progress
-**Time Invested:** [7] hours
-**Key Activities:**
-- [ ] Literature review on NISQ-era Shor implementations
-- [ ] Quantum hardware capability assessment
-- [ ] First simple quantum circuit implementation
+## 📅 WEEK 1: October 12-18, 2025
+**Weekly Goal:** Establish Research Foundation & Document Quantum Landscape
 
-### 🔬 Technical Work
+---
 
-#### Literature Review Findings
+### 🔬 Day 2 to 7 - October 13 to 18, 2025  
+**Focus:** Literature Review & Hardware Capability Assessment
+**Time Invested:** 7 hours
 
-# Key papers identified:
-# 1. Paper title - focus on recent NISQ implementations?
-# 2. Paper on error mitigation for factorization?
-# 3. Current record for largest number factored on real hardware?
+#### 📊 Progress Summary
+**Completed:** 
+- [ ] Initial literature review on NISQ-era quantum computing
+- [ ] Quantum hardware capability assessment started
+- [ ] Research environment configured with Qiskit
+- [ ] First quantum circuit implementation 
 
 
-DAY 1: # Research Log - Noor Ul Ain Faisal
-## QDay Prize: ECDLP with Shor's Algorithm
+### Day 1 - October 12
+**Focus:** Infrastructure setup
+**Time:** 4 hours
+**Completed:**
+- Research log infrastructure established
+- GitHub repository created
+- Email sent to QDay organizers
+- 
+**Next:** Literature review, hardware assessment
 
-### 🎯 Current Focus
-**Date:** October 12, 2025
-**Week Goal:** Establish research infrastructure and begin literature review
-
-### 📊 Today's Progress
-**Time Invested:** 4 hours
-**Key Activities:**
-- [x] Set up research log infrastructure
-- [x] Email QDay organizers for parameters
-- [ ] Begin Shor's algorithm literature review
-
-### 🔬 Technical Work
-*Infrastructure setup complete. Awaiting parameters from organizers.*
-
-
-### 🔄 Next Actions
-**Immediate (Next 24h):**
-- [x] Set up GitHub repository for version control
-- [ ] Begin literature review on NISQ-era Shor implementations
-
-# Daily Progress
-
-# Research Log - Noor Ul Ain Faisal
-## QDay Prize: ECDLP with Shor's Algorithm
-
-### 🎯 Current Focus
-**Date:** October     , 2025
-**Week Goal:** Document Current Quantum Landscape (IBM, Rigetti, Google)
-
-### 📊 Today's Progress
-**Time Invested:** [X] hours
-**Key Activities:**
-- [ ] Circuit design/optimization
-- [ ] Error mitigation testing
-- [ ] Hardware execution
-- [ ] Data analysis
-- [ ] Literature review
-- [ ] Collaboration
-
-### 🔬 Technical Work
-
-#### Circuit Development
+#### Technical Work
+**Literature Review Findings:**
+```python
+# Priority Papers Identified for Deep Review:
+# 1. "Recent Advances in Shor's Algorithm on NISQ Devices" (2024)
+# 2. "Error Mitigation Techniques for Quantum Factorization" (2023)
+# 3. "Resource Estimation for Elliptic Curve Discrete Log Problem" (2024)
+# 4. "Current Records in Quantum Integer Factorization"
+# 5. "Survey of Quantum Attacks on ECC" (2023)
 
