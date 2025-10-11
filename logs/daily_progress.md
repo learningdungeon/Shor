@@ -27,12 +27,12 @@
 - Research log infrastructure established
 - GitHub repository created
 - Email sent to QDay organizers
-- 
+  
 **Next:** Literature review, hardware assessment
 
 #### Technical Work
 **Literature Review Findings:**
-```python
+
 # Priority Papers Identified for Deep Review:
 # 1. "Recent Advances in Shor's Algorithm on NISQ Devices" (2024)
 # 2. "Error Mitigation Techniques for Quantum Factorization" (2023)
