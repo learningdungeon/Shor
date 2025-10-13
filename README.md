@@ -3,11 +3,6 @@ Research on Shor's algo
 Quantum ECC Learning Journey 🔐⚛️
 A comprehensive learning repository exploring the fascinating intersection of Elliptic Curve Cryptography and Quantum Computing. This project documents my journey through classical cryptography fundamentals and their quantum counterparts using Qiskit.
 
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Qiskit-1.0%252B-purple
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/Status-Learning%2520in%2520Progress-yellow
-
 🌟 Overview
 This repository contains my hands-on exploration of:
 
